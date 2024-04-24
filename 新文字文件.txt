@@ -1,23 +1,190 @@
-超越极限：Nike 与运动的永恒连接
 
-在现代生活中，Nike（耐克）已经成为了一种象征，不仅代表着优质的运动装备和时尚潮流，更是一种对挑战极限、追求卓越的精神的体现。自诞生以来，Nike 就一直在为运动界树立着标杆，推动着运动的边界，激发着人们对于自我突破的渴望。
+英文
+Facebook pays teens to install VPN that spies on them
+Josh Constine@joshconstine / 7:36 AM GMT+8•January 30, 2019
+ Comment
+facebook vpn watching
+Image Credits: Bryce Durbin / TechCrunch
+Desperate for data on its competitors, Facebook has been secretly paying people to install a “Facebook Research” VPN that lets the company suck in all of a user’s phone and web activity, similar to Facebook’s Onavo Protect app that Apple banned in June and that was removed in August. Facebook sidesteps the App Store and rewards teenagers and adults to download the Research app and give it root access to network traffic in what may be a violation of Apple policy so the social network can decrypt and analyze their phone activity, a TechCrunch investigation confirms.
 
-创新的驱动力
+Facebook admitted to TechCrunch it was running the Research program to gather data on usage habits.
 
-Nike 不仅仅是一家运动品牌，更是一种创新的象征。从最早的运动鞋到如今的科技运动装备，Nike 不断地引领着时尚与科技的融合。其独特的设计理念和先进的技术，使得每一双鞋、每一件服装都成为了运动者的利器，助力他们突破自我的极限。
+Since 2016, Facebook has been paying users ages 13 to 35 up to $20 per month plus referral fees to sell their privacy by installing the iOS or Android “Facebook Research” app. Facebook even asked users to screenshot their Amazon order history page. The program is administered through beta testing services Applause, BetaBound and uTest to cloak Facebook’s involvement, and is referred to in some documentation as “Project Atlas” — a fitting name for Facebook’s effort to map new trends and rivals around the globe.
 
-践行使命
+Seven hours after this story was published, Facebook told TechCrunch it would shut down the iOS version of its Research app in the wake of our report. But on Wednesday morning, an Apple spokesperson confirmed that Facebook violated its policies, and it had blocked Facebook’s Research app on Tuesday before the social network seemingly pulled it voluntarily (without mentioning it was forced to do so). You can read our full report on the development here.
 
-Nike 一直秉承着“Just Do It”的品牌精神，鼓励人们敢于追求梦想，敢于挑战自我。无论是世界级的顶尖运动员，还是普通的运动爱好者，他们都能在 Nike 的产品和服务中找到支持和鼓励，勇往直前。
+An Apple spokesperson provided this statement. “We designed our Enterprise Developer Program solely for the internal distribution of apps within an organization. Facebook has been using their membership to distribute a data-collecting app to consumers, which is a clear breach of their agreement with Apple. Any developer using their enterprise certificates to distribute apps to consumers will have their certificates revoked, which is what we did in this case to protect our users and their data.”
 
-社会责任
+Facebook’s Research program will continue to run on Android. [Update 2/21/19: Facebook will pull Onavo from the Google Play store and eventually shut it down. It will also cease to recruit users for the Android version of its Research app, though it plans other paid research initiatives.]
 
-作为一家全球性企业，Nike 不仅关注商业的成功，更注重对社会的责任。通过减少碳排放、推动可持续发展、支持体育教育等一系列举措，Nike 力求为社会做出积极的贡献，为下一代留下更美好的世界。
+Facebook’s Research app requires users to ‘Trust’ it with extensive access to their data. We asked Guardian Mobile Firewall’s security expert Will Strafach to dig into the Facebook Research app, and he told us that “If Facebook makes full use of the level of access they are given by asking users to install the Certificate, they will have the ability to continuously collect the following types of data: private messages in social media apps, chats from in instant messaging apps – including photos/videos sent to others, emails, web searches, web browsing activity, and even ongoing location information by tapping into the feeds of any location tracking apps you may have installed.” It’s unclear exactly what data Facebook is concerned with, but it gets nearly limitless access to a user’s device once they install the app.
 
-连接人与运动
+The strategy shows how far Facebook is willing to go and how much it’s willing to pay to protect its dominance — even at the risk of breaking the rules of Apple’s iOS platform on which it depends. Apple may have asked Facebook to discontinue distributing its Research app.
 
-Nike 不仅仅是一种品牌，更是连接人与运动的桥梁。无论你是在篮球场上拼搏，还是在跑道上奔跑，抑或是在健身房里挥洒汗水，Nike 都将伴随着你，与你一同感受运动的乐趣，追逐自由与激情。
+A more stringent punishment would be to revoke Facebook’s permission to offer employee-only apps. The situation could further chill relations between the tech giants. Apple’s Tim Cook has repeatedly criticized Facebook’s data collection practices. Facebook disobeying iOS policies to slurp up more information could become a new talking point.
 
-未来展望
+Facebook’s Research program is referred to as Project Atlas on sign-up sites that don’t mention Facebook’s involvement
 
-展望未来，Nike 将继续秉承着创新、挑战与责任的价值观，不断拓展边界，推动运动发展，为全球运动爱好者提供更优质的产品和服务。无论时代如何变迁，Nike 与运动的连接将永不磨灭，激励着人们勇往直前，超越极限。 Just Do It！
+“The fairly technical sounding ‘install our Root Certificate’ step is appalling,” Strafach tells us. “This hands Facebook continuous access to the most sensitive data about you, and most users are going to be unable to reasonably consent to this regardless of any agreement they sign, because there is no good way to articulate just how much power is handed to Facebook when you do this.”
+
+Facebook’s surveillance app
+Facebook first got into the data-sniffing business when it acquired Onavo for around $120 million in 2014. The VPN app helped users track and minimize their mobile data plan usage, but also gave Facebook deep analytics about what other apps they were using. Internal documents acquired by Charlie Warzel and Ryan Mac of BuzzFeed News reveal that Facebook was able to leverage Onavo to learn that WhatsApp was sending more than twice as many messages per day as Facebook Messenger. Onavo allowed Facebook to spot WhatsApp’s meteoric rise and justify paying $19 billion to buy the chat startup in 2014. WhatsApp has since tripled its user base, demonstrating the power of Onavo’s foresight.
+
+Over the years since, Onavo clued Facebook in to what apps to copy, features to build and flops to avoid. By 2018, Facebook was promoting the Onavo app in a Protect bookmark of the main Facebook app in hopes of scoring more users to snoop on. Facebook also launched the Onavo Bolt app that let you lock apps behind a passcode or fingerprint while it surveils you, but Facebook shut down the app the day it was discovered following privacy criticism. Onavo’s main app remains available on Google Play and has been installed more than 10 million times.
+
+The backlash heated up after security expert Strafach detailed in March how Onavo Protect was reporting to Facebook when a user’s screen was on or off, and its Wi-Fi and cellular data usage in bytes even when the VPN was turned off. In June, Apple updated its developer policies to ban collecting data about usage of other apps or data that’s not necessary for an app to function. Apple proceeded to inform Facebook in August that Onavo Protect violated those data collection policies and that the social network needed to remove it from the App Store, which it did, Deepa Seetharaman of the WSJ reported.
+
+But that didn’t stop Facebook’s data collection.
+
+Project Atlas
+TechCrunch recently received a tip that despite Onavo Protect being banished by Apple, Facebook was paying users to sideload a similar VPN app under the Facebook Research moniker from outside of the App Store. We investigated, and learned Facebook was working with three app beta testing services to distribute the Facebook Research app: BetaBound, uTest and Applause. Facebook began distributing the Research VPN app in 2016. It has been referred to as Project Atlas since at least mid-2018, around when backlash to Onavo Protect magnified and Apple instituted its new rules that prohibited Onavo. Previously, a similar program was called Project Kodiak. Facebook didn’t want to stop collecting data on people’s phone usage and so the Research program continued, in disregard for Apple banning Onavo Protect.
+
+Facebook’s Research App on iOS
+
+Ads (shown below) for the program run by uTest on Instagram and Snapchat sought teens 13-17 years old for a “paid social media research study.” The sign-up page for the Facebook Research program administered by Applause doesn’t mention Facebook, but seeks users “Age: 13-35 (parental consent required for ages 13-17).” If minors try to sign-up, they’re asked to get their parents’ permission with a form that reveal’s Facebook’s involvement and says “There are no known risks associated with the project, however you acknowledge that the inherent nature of the project involves the tracking of personal information via your child’s use of apps. You will be compensated by Applause for your child’s participation.” For kids short on cash, the payments could coerce them to sell their privacy to Facebook.
+
+The Applause site explains what data could be collected by the Facebook Research app (emphasis mine):
+
+“By installing the software, you’re giving our client permission to collect data from your phone that will help them understand how you browse the internet, and how you use the features in the apps you’ve installed . . . This means you’re letting our client collect information such as which apps are on your phone, how and when you use them, data about your activities and content within those apps, as well as how other people interact with you or your content within those apps. You are also letting our client collect information about your internet browsing activity (including the websites you visit and data that is exchanged between your device and those websites) and your use of other online services. There are some instances when our client will collect this information even where the app uses encryption, or from within secure browser sessions.”
+
+Meanwhile, the BetaBound sign-up page with a URL ending in “Atlas” explains that “For $20 per month (via e-gift cards), you will install an app on your phone and let it run in the background.” It also offers $20 per friend you refer. That site also doesn’t initially mention Facebook, but the instruction manual for installing Facebook Research reveals the company’s involvement.
+
+
+Facebook’s intermediary uTest ran ads on Snapchat and Instagram, luring teens to the Research program with the promise of money
+
+Facebook seems to have purposefully avoided TestFlight, Apple’s official beta testing system, which requires apps to be reviewed by Apple and is limited to 10,000 participants. Instead, the instruction manual reveals that users download the app from r.facebook-program.com and are told to install an Enterprise Developer Certificate and VPN and “Trust” Facebook with root access to the data their phone transmits. Apple requires that developers agree to only use this certificate system for distributing internal corporate apps to their own employees. Randomly recruiting testers and paying them a monthly fee appears to violate the spirit of that rule.
+
+Security expert Will Strafach found Facebook’s Research app contains lots of code from Onavo Protect, the Facebook-owned app Apple banned last year
+
+Once installed, users just had to keep the VPN running and sending data to Facebook to get paid. The Applause-administered program requested that users screenshot their Amazon orders page. This data could potentially help Facebook tie browsing habits and usage of other apps with purchase preferences and behavior. That information could be harnessed to pinpoint ad targeting and understand which types of users buy what.
+
+TechCrunch commissioned Strafach to analyze the Facebook Research app and find out where it was sending data. He confirmed that data is routed to “vpn-sjc1.v.facebook-program.com” that is associated with Onavo’s IP address, and that the facebook-program.com domain is registered to Facebook, according to MarkMonitor. The app can update itself without interacting with the App Store, and is linked to the email address PeopleJourney@fb.com. He also discovered that the Enterprise Certificate first acquired in 2016 indicates Facebook renewed it on June 27th, 2018 — weeks after Apple announced its new rules that prohibited the similar Onavo Protect app.
+
+“It is tricky to know what data Facebook is actually saving (without access to their servers). The only information that is knowable here is what access Facebook is capable of based on the code in the app. And it paints a very worrisome picture,” Strafach explains. “They might respond and claim to only actually retain/save very specific limited data, and that could be true, it really boils down to how much you trust Facebook’s word on it. The most charitable narrative of this situation would be that Facebook did not think too hard about the level of access they were granting to themselves . . . which is a startling level of carelessness in itself if that is the case.”
+
+TechCrunch also found that Google’s Screenwise Meter surveillance app also breaks the Enterprise Certificate policy, though it does a better job of revealing the company’s involvement and how it works than Facebook does.
+
+“Flagrant defiance of Apple’s rules”
+In response to TechCrunch’s inquiry, a Facebook spokesperson confirmed it’s running the program to learn how people use their phones and other services. The spokesperson told us “Like many companies, we invite people to participate in research that helps us identify things we can be doing better. Since this research is aimed at helping Facebook understand how people use their mobile devices, we’ve provided extensive information about the type of data we collect and how they can participate. We don’t share this information with others and people can stop participating at any time.”
+
+Facebook’s Research app requires Root Certificate access, which Facebook gather almost any piece of data transmitted by your phone
+
+Facebook’s spokesperson claimed that the Facebook Research app was in line with Apple’s Enterprise Certificate program, but didn’t explain how in the face of evidence to the contrary. They said Facebook first launched its Research app program in 2016. They tried to liken the program to a focus group and said Nielsen and comScore run similar programs, yet neither of those ask people to install a VPN or provide root access to the network. The spokesperson confirmed the Facebook Research program does recruit teens but also other age groups from around the world. They claimed that Onavo and Facebook Research are separate programs, but admitted the same team supports both as an explanation for why their code was so similar.
+
+Facebook’s Research program requested users screenshot their Amazon order history to provide it with purchase data
+
+However, Facebook’s claim that it doesn’t violate Apple’s Enterprise Certificate policy is directly contradicted by the terms of that policy. Those include that developers “Distribute Provisioning Profiles only to Your Employees and only in conjunction with Your Internal Use Applications for the purpose of developing and testing”. The policy also states that “You may not use, distribute or otherwise make Your Internal Use Applications available to Your Customers” unless under direct supervision of employees or on company premises. Given Facebook’s customers are using the Enterprise Certificate-powered app without supervision, it appears Facebook is in violation.
+
+Seven hours after this report was first published, Facebook updated its position and told TechCrunch that it would shut down the iOS Research app. Facebook noted that the Research app was started in 2016 and was therefore not a replacement for Onavo Protect. However, they do share similar code and could be seen as twins running in parallel. A Facebook spokesperson also provided this additional statement:
+
+“Key facts about this market research program are being ignored. Despite early reports, there was nothing ‘secret’ about this; it was literally called the Facebook Research App. It wasn’t ‘spying’ as all of the people who signed up to participate went through a clear on-boarding process asking for their permission and were paid to participate. Finally, less than 5 percent of the people who chose to participate in this market research program were teens. All of them with signed parental consent forms.”
+
+Facebook did not publicly promote the Research VPN itself and used intermediaries that often didn’t disclose Facebook’s involvement until users had begun the signup process. While users were given clear instructions and warnings, the program never stresses nor mentions the full extent of the data Facebook can collect through the VPN. A small fraction of the users paid may have been teens, but we stand by the newsworthiness of its choice not to exclude minors from this data collection initiative.
+
+Facebook disobeying Apple so directly and then pulling the app could hurt their relationship. “The code in this iOS app strongly indicates that it is simply a poorly re-branded build of the banned Onavo app, now using an Enterprise Certificate owned by Facebook in direct violation of Apple’s rules, allowing Facebook to distribute this app without Apple review to as many users as they want,” Strafach tells us. ONV prefixes and mentions of graph.onavo.com, “onavoApp://” and “onavoProtect://” custom URL schemes litter the app. “This is an egregious violation on many fronts, and I hope that Apple will act expeditiously in revoking the signing certificate to render the app inoperable.”
+
+Facebook is particularly interested in what teens do on their phones as the demographic has increasingly abandoned the social network in favor of Snapchat, YouTube and Facebook’s acquisition Instagram. Insights into how popular with teens is Chinese video music app TikTok and meme sharing led Facebook to launch a clone called Lasso and begin developing a meme-browsing feature called LOL, TechCrunch first reported. But Facebook’s desire for data about teens riles critics at a time when the company has been battered in the press. Analysts on tomorrow’s Facebook earnings call should inquire about what other ways the company has to collect competitive intelligence now that it’s ceased to run the Research program on iOS.
+
+Last year when Tim Cook was asked what he’d do in Mark Zuckerberg’s position in the wake of the Cambridge Analytica scandal, he said “I wouldn’t be in this situation . . . The truth is we could make a ton of money if we monetized our customer, if our customer was our product. We’ve elected not to do that.” Zuckerberg told Ezra Klein that he felt Cook’s comment was “extremely glib.”
+
+Now it’s clear that even after Apple’s warnings and the removal of Onavo Protect, Facebook was still aggressively collecting data on its competitors via Apple’s iOS platform. “I have never seen such open and flagrant defiance of Apple’s rules by an App Store developer,” Strafach concluded. Now that Facebook has ceased the program on iOS and its Android future is uncertain, it may either have to invent new ways to surveil our behavior amidst a climate of privacy scrutiny, or be left in the dark.
+
+
+
+Update 11:20pm pacific, January 29th, 2019: This article has been updated with Facebook’s confirmation that it will shut down the Facebook Research app for iOS, and with our commentary on the shut down.
+
+Update 8:01am pacific, January 30th, 2019: This article has been updated with Apple’s confirmation and statement that Facebook’s Research app violated its policies, and with our follow-up article on the news.
+
+Update: 9:27am pacific, January 30th, 2019: This article has been updated to reflect that Apple forced Facebook to shut down the Facebook Research app for iOS.
+
+Update: 11:37am pacific, January 30th, 2019: This article has been updated with a link to our follow-up report on Google shutting down its Screenwise Meter app that similarly violated Apple’s policies.
+
+Update: 7:56am pacific, February 21st, 2019: This article has been updated to reflect the news that Facebook will cease recruiting for the Android version of Facebook Research, and that it will shut down its Onavo Protect app.
+
+Additional reporting by Zack Whittaker.
+
+
+
+
+
+中文
+Facebook支付青少年安裝一款 VPN，而這款 VPN 會監控他們
+Josh Constine@joshconstine / 7:36 AM GMT+8•January 30, 2019
+【譯者註：原文中的留言、標題、圖片來源等信息未加翻譯】
+Facebook 迫切需要了解競爭對手的數據，因此秘密支付用戶安裝一款名為“Facebook Research”的 VPN。這款 VPN 允許該公司監控用戶的所有手機和網絡活動，類似於 Facebook 在六月被蘋果禁止並在八月被移除的 Onavo Protect 應用。Facebook 規避了 App Store，並鼓勵青少年和成年人下載這款研究應用，並給予其對網絡流量的根許可權，這可能違反了蘋果的政策，因此社交網絡可以解密並分析他們的手機活動，TechCrunch 的調查證實了這一點。
+
+Facebook 向 TechCrunch 承認，他們正在運行研究計劃以收集用戶的使用習慣數據。
+
+自 2016 年以來，Facebook 已經開始向年齡在 13 到 35 歲的用戶支付每月高達 20 美元的報酬，以及推薦費，讓他們通過安裝 iOS 或 Android 上的“Facebook Research”應用程序出售他們的隱私。Facebook 甚至要求用戶截取其 Amazon 訂單歷史頁面的屏幕截圖。該計劃是通過測試服務 Applause、BetaBound 和 uTest 進行管理，以掩蓋 Facebook 的參與，並且在一些文件中被稱為“項目 Atlas”——這是 Facebook 用來描述自己在全球各地對新趨勢和競爭對手進行圖像化努力的一個合適名稱。
+
+本文發布後七小時，Facebook 告訴 TechCrunch，將在我們的報告後關閉其 Research 應用的 iOS 版本。但在星期三上午，蘋果的一位發言人證實 Facebook 違反了其政策，並且在這家社交網絡在自願地拉起應用之前（沒有提及他們被迫這樣做），在星期二封鎖了 Facebook 的 Research 應用。您可以在此處閱讀我們對這一發展的完整報告。
+
+蘋果的一位發言人提供了這樣一份聲明：“我們設計我們的企業開發者計劃僅僅用於組織內部分發應用程序。Facebook 利用他們的會員資格向消費者分發一款收集數據的應用程序，這顯然違反了他們與蘋果的協議。任何開發人員如果使用他們的企業證書向消費者分發應用程序，將會被吊銷他們的證書，這正是我們在這個案例中所做的，以保護我們的用戶和他們的數據。”
+
+Facebook 的 Research 計劃將繼續在 Android 上運行。【更新 2019 年 2 月 21 日：Facebook 將從 Google Play 商店中撤出 Onavo，並最終將其關閉。它也將停止招募用戶為其 Research 應用的 Android 版本，儘管它計劃進行其他付費的研究活動。】
+
+Facebook 的 Research 應用需要用戶“信任”它對其數據進行廣泛訪問。我們請 Guardian Mobile Firewall 的安全專家威爾·斯特拉法赫（Will Strafach）對 Facebook Research 應用進行了深入分析，他告訴我們：“如果 Facebook 充分利用他們通過要求用戶安裝證書所獲得的訪問級別，他們將能夠不斷收集以下類型的數據：社交媒體應用程序中的私人消息、即時通訊應用程序中的聊天（包括發送給其他人的照片/視頻）、電子郵件、網絡搜索、網絡瀏覽活動，甚至是通過利用您可能已安裝的任何位置跟踪應用程序的信息來持續收集位置信息。”目前尚不清楚 Facebook 到底關心什麼數據，但一旦用戶安裝了應用，它就幾乎可以無限訪問用戶的設備。【原文最後有一句話，但是不清楚該怎麼翻譯，因此暫時省略】
+
+這一策略顯示了 Facebook 願意走多遠，以及它願意支付多少來保護自己的主導地位——甚至冒著違反其依賴的蘋果 iOS 平台的規則的風險。蘋果可能已經要求 Facebook 停止分發其 Research 應用。
+
+更嚴厲的懲罰可能是吊銷 Facebook 提供僅限員工使用的應用程序的許可權。這種情況可能進一步冷卻了這兩家科技巨頭之間的關係。蘋果的蒂姆·庫克（Tim Cook）一再批評 Facebook 的數據收集做法。Facebook 不服從 iOS 政策以吸取更多信息，可能會成為一個新的談話焦點。
+
+Facebook 的 Research 計劃在註冊站點上被稱為項目 Atlas，並沒有提及 Facebook 的參與
+
+“相當技術性的‘安裝我們的根證書’步驟令人震驚，” Strafach 告訴我們。“這讓 Facebook 持續訪問與您有關的最敏感的數據，而大多數用戶無論簽署了什麼協議，都無法合理地同意這一點，因為沒有一種很好的方式能夠表達當您這樣做時 Facebook 獲得的權力有多大。”
+
+Facebook 首次涉足數據嗅探業務是在 2014 年以約 1.2 億美元收購 Onavo 時。這款 VPN 應用程序幫助用戶跟蹤和減少他們的移動數據使用量，但也為 Facebook 提供了關於他們使用的其他應用程序的深入分析。BuzzFeed News 的查理·沃爾澤爾（Charlie Warzel）和萊恩·麥克（Ryan Mac）所獲得的內部文件顯示，Facebook 利用 Onavo 了解到 WhatsApp 每天發送的消息數量是 Facebook Messenger 的兩倍多。Onavo 讓 Facebook 發現了 WhatsApp 的迅猛崛起，並且為 2014 年以 190 億美元收購這家聊天初創公司提供了理由。WhatsApp 自那時以來將其用戶基數增加了三倍，這證明了 Onavo 具有前瞻性的力量。
+
+在此之後的幾年中，Onavo 讓 Facebook 知道了要模仿哪些應用程序、建立哪些功能以及避免哪些失敗。到 2018 年，Facebook 在希望獲得更多用戶以進行監視的前提下，在主要 Facebook 應用程序的書籤中推廣了 Onavo 應用程序。Facebook 還推出了 Onavo Bolt 應用程序，該應用程序可以讓您在通過密碼或指紋鎖定應用程序的同時進行監視，但是在隱私批評浮出水面的那一天，Facebook 就關閉了這款應用程序。Onavo 的主要應用程序仍然可以在 Google Play 上獲得，並且已經被安裝了超過 1000 萬次。
+
+安全專家斯特拉法赫（Strafach）於三月份詳細介紹了 Onavo Protect 如何在用戶的屏幕開啟或關閉時向 Facebook 報告，即使 VPN 被關閉，它也會報告用戶的 Wi-Fi 和蜂窩數據使用量。六月份，蘋果更新了其開發者政策，禁止收集有關其他應用程序使用情況的數據或不必要的數據。根據《華爾街日報》的 Deepa Seetharaman 的報導，蘋果隨後通知 Facebook，Onavo Protect 違反了這些數據收集政策，並且這家社交網絡需要將其從 App Store 中刪除。
+
+但這並沒有阻止 Facebook 的數據收集。
+
+項目 Atlas
+TechCrunch 最近收到一個提示，儘管 Onavo Protect 被蘋果驅逐，但 Facebook 仍在支付用戶從 App Store 之外下載一款類似的 VPN 應用，名為 Facebook Research。我們進行了調查，發現 Facebook 正與三個應用測試服務合作分發 Facebook Research 應用：BetaBound、uTest 和 Applause。Facebook 從 2016 年開始分發 Research VPN 應用。至少從 2018 年中期開始，即 Onavo Protect 遭到抨擊並且蘋果制定了禁止 Onavo 的新規則之後，它一直被稱為項目 Atlas。以前，類似的計劃被稱為項目 Kodiak。Facebook 不想停止收集人們的電話使用數據，因此研究計劃繼續進行，無視了蘋果禁止 Onavo Protect。
+
+Facebook 的 Research 應用在 iOS 上
+
+uTest 的廣告（如下所示）在 Instagram 和 Snapchat 上運行，吸引青少年參加研究計劃，承諾支付報酬
+
+Facebook 似乎特意避免使用 TestFlight，這是蘋果的官方測試系統，要求應用經蘋果審查並且僅限於 10,000 名參與者。相反，說明手冊顯示用戶從 r.facebook-program.com 下載應用程序，並被告知安裝企業開發者證書和 VPN，並“信任” Facebook 具有其手機傳輸的數據的根訪問權。蘋果要求開發人員同意僅將此證書系統用於將內部企業應用程序分發給自己的員工。隨機招募測試人員並向他們支付月費似乎違反了該規則的精神。
+
+安全專家威爾·斯特拉法赫發現，Facebook 的 Research 應用程序包含了許多來自 Onavo Protect 的代碼，這是蘋果去年禁止的 Facebook 擁有的應用
+
+一旦安裝完成，用戶只需保持 VPN 運行並將數據發送給 Facebook，即可獲得報酬。由 Applause 管理的程序要求用戶截取他們的 Amazon 訂單頁面的屏幕截圖。這些數據可能有助於 Facebook 將瀏覽習慣和其他應用程序的使用與購買偏好和行為相關聯。這些信息可以用於精確定位廣告和了解哪種類型的用戶購買什麼。
+
+TechCrunch 委託斯特拉法赫分析 Facebook Research 應用程序，找出它向何處發送數據。他確認數據路由到與 Onavo 的 IP 地址相關聯的“vpn-sjc1.v.facebook-program.com”，並且 facebook-program.com 域名是註冊給 Facebook 的，根據 MarkMonitor。該應用程序可以在不與 App Store 互動的情況下更新自己，並且與 PeopleJourney@fb.com 的電子郵件地址相關聯。他還發現，2016 年首次獲得的企業證書顯示，Facebook 在 2018 年 6 月 27 日更新了它——這是蘋果宣布禁止類似 Onavo Protect 應用程序後的幾個星期。
+
+“很難知道 Facebook 實際上保存了哪些數據（沒有訪問他們的服務器）。在這裡可以知道的唯一信息是根據應用程序中的代碼，Facebook 獲得了多大程度的訪問。這描述了一個非常令人擔憂的情況，”斯特拉法赫解釋道。“他們可能會回應並聲稱他們實際上只保留/保存了非常特定的有限數據，這可能是真的，這實際上取決於您對 Facebook 說法的信任程度。這種情況的最慷慨的解釋是，Facebook 沒有太過於考慮他們正在授予自己的訪問級別……如果是這樣的話，那麼這本身就是一個令人擔憂的情況。”
+
+Facebook 如何報酬測試者
+顯然，Facebook 為測試者付費。這是自 2016 年開始的一項業務。但在開始之前，測試者必須“信任” Facebook 對他們設備的完全訪問權，就像你將你的家鑰匙交給了一位有過入室行為的“鎖匠”一樣。
+
+uTest 廣告對參與者進行了講解，對他們在自己的社交網絡賬戶上拍攝視頻的問題進行了提問，該問題是在 SnapChat 上的一個問題箱中進行的，答案是 Snapchat。在這個截圖中，該廣告許諾了 5 美元至 20 美元的報酬。
+
+一些測試者甚至願意銷售其電話使用數據，包括他們的 Amazon 購物歷史記錄。他們可以獲得每月 20 美元的報酬加上 Amazon 贈品卡，一位參與者說，但對於如何通過拍攝訂單屏幕截圖來證明自己在使用它們，他感到困惑。
+
+Facebook 的許多測試者是青少年，他們得知計劃通過 Instagram 和 Snapchat 的廣告。這些廣告可能不會為年齡限制提供充分的信息，從而使 Facebook 可能將這些人置於可能不適合他們年齡的情境中，例如將他們的網絡數據提供給 Facebook，監控他們的行為。
+
+對 Facebook Research 應用程序的使用者的報導主要集中在 Teen Vogue 和 Bloomberg 關於任何可能違反人際關係和性別溝通隱私的擔憂。但是，在 Facebook 官方發佈的文檔中提到，研究不是根據這些人的社交媒體行為來分析的，而是將訪問量作為主要依據。受測者的行為不僅包括他們的社交媒體使用，還包括他們的瀏覽活動，還有他們將數據發送給 Facebook Research 應用程序的移動傳輸量。
+
+根據人們分享的截圖，研究主要關注以下領域：平板電腦、桌面或筆記本電腦、智能手機、手錶/穿戴式設備、智能家居設備（例如智能冰箱、智能燈泡等）、音響（例如智能揚聲器、耳機等）和其他電子產品（例如汽車、無人機、虛擬現實設備等）。
+
+Facebook 的道德衡量
+Facebook 正在採取的這種情況可能違反了蘋果的規定，並且已經被媒體盯上。這種行為是否道德合理是另一個問題。這是一家社交網絡公司，該公司曾在過去六年內多次因數據隱私和透明度問題受到批評。最近，他們暴露了幾十萬個用戶的視頻信息，並且在他們的後台中悄悄設置了一個功能，允許平台運營商查看用戶的私人信息。 Facebook 運行一個新的、未經審查的 VPN 以獲取用戶的數據，並且用戶可以獲得 20 美元每月的補償，這是多麼合理？
+
+如果蘋果因違反其條款而禁止 Facebook 的研究應用程序，那麼 Facebook 將可能受到更大的道德負擔，因為這意味著該公司不僅對法規進行了不當挑戰，而且對它的用戶進行了不當挑戰。這可能使人們更加擔憂 Facebook 的數據收集行為，並導致更多的人退出平台。
+
+另一個令人擔憂的問題是 Facebook 的這一行為會否為其在蘋果和其他公司中的地位帶來負面影響。蘋果首席執行官蒂姆·庫克（Tim Cook）在過去的幾年中多次批評 Facebook 的數據隱私政策，並且指責社交媒體巨頭處理用戶數據的方式。隨著 Facebook 越來越多地涉足 VPN 和數據監控領域，這種緊張關係可能會進一步加劇。
+
+Facebook 目前的策略是，該公司認為其在行業中的地位重要到足以在蘋果的規則和其他反對他們的人士面前無視風險。儘管它可能面臨的懲罰很嚴重，Facebook 仍然在進行這項活動，這表明該公司可能對其在數據收集方面的目標有著更高的優先級。
+
+鑑於這一局勢，Facebook 可能應該重新評估其行為，並努力改善其數據隱私記錄，以免進一步引起用戶的不信任和關注。對 Facebook 而言，讓用戶知道他們的數據如何被收集和使用，並讓他們能夠自由選擇是否參與這樣的計劃，可能會增加用戶對公司的信任，並有助於改善其公共形象。
+
+該公司最終可能會發現，尊重用戶的隱私和透明度對於保持持久的企業發展是至關重要的。在數據隱私和透明度方面的努力將有助於使用戶保持信任，從而使他們更有可能繼續使用 Facebook 平台。而忽視這些問題可能會導致長期的負面影響，對公司形象和業務運營都是如此。
+
+
+
+心得
+Facebook以涉嫌秘密监控用户的方式，绕过苹果的政策，这种行为令人担忧。隐私和数据保护是用户信任和企业声誉的基石，但Facebook为了竞争优势似乎不择手段。这次事件突显了科技巨头对用户数据的渴望，但也引发了对隐私和透明度的更多关注。企业应该尊重用户的隐私权，并透明地告知他们数据的收集和使用方式，以建立长期的信任和良好的形象。
